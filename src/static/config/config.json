@@ -1,0 +1,7 @@
+{
+  "isConfigWorker": false,
+  "workerType": "local",
+  "workerPath": "./src/static/tesseract/js/worker.min.js",
+  "langPath": "./src/static/tesseract/lang",
+  "corePath": "./src/static/tesseract/js/tesseract-core.wasm.js"
+}
